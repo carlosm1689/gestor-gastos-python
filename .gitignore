@@ -1,0 +1,14 @@
+
+# Archivos temporales de Python
+__pycache__/
+*.py[cod]
+
+# Copias de respaldo
+*_respaldo.py
+*_respaldo.txt
+
+# Datos personales y movimientos financieros
+movimientos.txt
+
+# Configuración local del editor
+.vscode/
